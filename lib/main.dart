@@ -13,7 +13,7 @@ Future main() async {
 }
 
 class MyApp extends StatelessWidget {
-  static final String title = 'Invoice';
+  static final String title = 'Docs Helper';
 
   @override
   Widget build(BuildContext context) => MaterialApp(
